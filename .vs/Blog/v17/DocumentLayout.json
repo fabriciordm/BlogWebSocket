@@ -1,0 +1,364 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\repositories\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\repositories\\userrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\repositories\\postrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\repositories\\ipostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\notifications\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\notifications\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\notifications\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\notifications\\inotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\data\\datacontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\data\\datacontext .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\controller\\postcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B0AD87-985E-458D-B500-F2343766DDDA}|Blog\\Blog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\blog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B0AD87-985E-458D-B500-F2343766DDDA}|Blog\\Blog.csproj|solutionrelative:blog\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B0AD87-985E-458D-B500-F2343766DDDA}|Blog\\Blog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08B0AD87-985E-458D-B500-F2343766DDDA}|Blog\\Blog.csproj|solutionrelative:blog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\services\\postservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08B0AD87-985E-458D-B500-F2343766DDDA}|Blog\\Blog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\blog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{08B0AD87-985E-458D-B500-F2343766DDDA}|Blog\\Blog.csproj|solutionrelative:blog\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|c:\\users\\fabricio\\source\\repos\\blog\\clientblog\\clientblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09D9E479-EB62-4C49-A801-81B4A9DD0293}|ClientBLog\\ClientBLog.csproj|solutionrelative:clientblog\\clientblog.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Startup.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Startup.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Startup.cs",
+              "RelativeToolTip": "ClientBLog\\Startup.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:57:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\Blog\\Startup.cs",
+              "RelativeDocumentMoniker": "Blog\\Startup.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\Blog\\Startup.cs",
+              "RelativeToolTip": "Blog\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:16:26.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Controller\\AuthController.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Controller\\AuthController.cs",
+              "RelativeToolTip": "ClientBLog\\Controller\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:09:23.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "INotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Notifications\\INotificationService.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Notifications\\INotificationService.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Notifications\\INotificationService.cs",
+              "RelativeToolTip": "ClientBLog\\Notifications\\INotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T17:44:36.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Repositories\\PostRepository.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Repositories\\PostRepository.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Repositories\\PostRepository.cs",
+              "RelativeToolTip": "ClientBLog\\Repositories\\PostRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAjwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:28:15.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Controller\\PostController.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Controller\\PostController.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Controller\\PostController.cs",
+              "RelativeToolTip": "ClientBLog\\Controller\\PostController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAASwDMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T04:19:05.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataContext .cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Data\\DataContext .cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Data\\DataContext .cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Data\\DataContext .cs",
+              "RelativeToolTip": "ClientBLog\\Data\\DataContext .cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:26:48.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Models\\Post.cs",
+              "RelativeToolTip": "ClientBLog\\Models\\Post.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:10:03.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Models\\User.cs",
+              "RelativeToolTip": "ClientBLog\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:10:05.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Notifications\\NotificationService.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Notifications\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Notifications\\NotificationService.cs",
+              "RelativeToolTip": "ClientBLog\\Notifications\\NotificationService.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAYwEgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T16:50:27.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Util.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Util.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Util.cs",
+              "RelativeToolTip": "ClientBLog\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T20:19:18.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Repositories\\IPostRepository.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Repositories\\IPostRepository.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Repositories\\IPostRepository.cs",
+              "RelativeToolTip": "ClientBLog\\Repositories\\IPostRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:10:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "ClientBLog\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:10:15.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRepository .cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Repositories\\UserRepository .cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Repositories\\UserRepository .cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Repositories\\UserRepository .cs",
+              "RelativeToolTip": "ClientBLog\\Repositories\\UserRepository .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T13:10:18.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\Blog\\Program.cs",
+              "RelativeDocumentMoniker": "Blog\\Program.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\Blog\\Program.cs",
+              "RelativeToolTip": "Blog\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBoAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T18:16:18.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Program.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Program.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Program.cs",
+              "RelativeToolTip": "ClientBLog\\Program.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAAwMgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:25:41.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\appsettings.json",
+              "RelativeDocumentMoniker": "ClientBLog\\appsettings.json",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\appsettings.json",
+              "RelativeToolTip": "ClientBLog\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T15:01:19.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PostService.cs",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Services\\PostService.cs",
+              "RelativeDocumentMoniker": "ClientBLog\\Services\\PostService.cs",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\Services\\PostService.cs",
+              "RelativeToolTip": "ClientBLog\\Services\\PostService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAADgvzkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T18:42:38.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\Blog\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Blog\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\Blog\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Blog\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-06T16:31:38.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientBLog.csproj",
+              "DocumentMoniker": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\ClientBLog.csproj",
+              "RelativeDocumentMoniker": "ClientBLog\\ClientBLog.csproj",
+              "ToolTip": "C:\\Users\\FABRICIO\\source\\repos\\Blog\\ClientBLog\\ClientBLog.csproj",
+              "RelativeToolTip": "ClientBLog\\ClientBLog.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-06T12:22:08.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
